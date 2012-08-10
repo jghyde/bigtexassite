@@ -4,3 +4,8 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+cache/
+files/
+sites/all/README.txt
+sites/all/modules/README.txt
+sites/all/themes/README.txt
